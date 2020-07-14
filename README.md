@@ -3,6 +3,7 @@
 This code makes use of tries to create a dictionary. A list of words is given for which a dictionary is created. It uses the following functions:
 
 
+
 ### RecursiveInsert Function 
 
 The function inserts a word in Trie. It does not insert a word if its prefix is already present in trie as a word
